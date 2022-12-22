@@ -8,7 +8,7 @@
 > which is commonly used to describe a feeling of magical and ethereality in literature.  
 
 __Let the magic begin !__  
-__Be attached to the unknown friend over the hill and far away !__
+__Then be attached to the unknown friend over the hill and far away !__
 
 # DESC:
 
