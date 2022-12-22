@@ -4,7 +4,6 @@
 > Stardust, also known as 星屑(ほしくず).  
 > means the night sky inlaid with shining star,   
 > which is commonly used to describe a feeling of magical and ethereality in literature.  
-
 Let the magic begin !  
 ---
 
