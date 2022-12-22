@@ -1,5 +1,5 @@
 # Stardust
-<img src="https://raw.githubusercontent.com/Falsedeer/Stardust/main/Picture/banner.png" width="410" height="250"/>  
+<img src="https://raw.githubusercontent.com/Falsedeer/Stardust/main/Picture/banner.png" width="830" height="500"/>  
 
 ---  
 
@@ -15,7 +15,7 @@ __Then be attached to the unknown friend over the hill and far away !__
 
 # Usage:
 The project file of Stardust included is ought to be open in UEStudio,  
-or it can be compiled under windows by using MinGW GCC by linking library "ws2_32", 
+or it can be compiled under windows by using MinGW GCC by linking library "ws2_32",  
 and specifying it a GUI program. 
 
 # ToDo:
