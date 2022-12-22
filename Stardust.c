@@ -11,7 +11,7 @@
 #pragma comment(lib, "ws2_32.lib")
 
 // global variable
-#define VERSION "0.1.2[Prototype]"
+#define VERSION "0.1.2 [Prototype]"
 #define HOST "127.0.0.1"
 #define PORT 4444
 
