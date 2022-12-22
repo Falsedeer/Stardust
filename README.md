@@ -11,8 +11,8 @@ __Cast the spell and let the magic begin !__
 __Then be attached to the unknown friend over the hill and far away !__
 
 # DESC:  
-Stardust is a lightweight, and fully functional reverse shell coded in C,
-and support interactive command 
+Stardust is a lightweight, and fully functional reverse shell coded in C,  
+and support interactive command execution 
 
 Remmber to use the latest release(Ver-0.1.2) of Stardust in order to have the best experience.  
 ![](https://raw.githubusercontent.com/Falsedeer/Stardust/main/Picture/1.png)
