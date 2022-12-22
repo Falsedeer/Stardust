@@ -13,6 +13,7 @@ __Then be attached to the unknown friend over the hill and far away !__
 # DESC:  
 Stardust is a lightweight, and fully functional reverse shell coded in C,  
 which currently only support basic feature of command execution (Ver-0.1.2).  
+![](https://github.com/Falsedeer/Stardust/blob/main/Picture/2.png)
 
 Remmber to use the latest release(Ver-0.1.2) of Stardust in order to have the best experience.  
 ![](https://raw.githubusercontent.com/Falsedeer/Stardust/main/Picture/1.png)
