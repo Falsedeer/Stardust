@@ -21,7 +21,16 @@ During the execution of Stardust,
 the process will remain stealth on the infected host during the whole operating time,  
 everything will be running in background,  
 nothing will be shown in dock, neither a flash of command prompt on execution.  
-![](
+</br>
+And after establishing the connection,  
+the only way to kill Stardust will be using Task Manager,  
+forcing the process to halt or be killed.  
+</br>
+Without any interuption during execution,  
+Stardust will exit gracefully by closing created process, 
+and releasing occupied memory space before program exit,  
+after the connection between the server got terminated.
+![](https://github.com/Falsedeer/Stardust/blob/main/Picture/4.png)
 Remmber to use the latest release(Ver-0.1.2) of Stardust in order to have the best experience.  
 ![](https://raw.githubusercontent.com/Falsedeer/Stardust/main/Picture/1.png)
 
