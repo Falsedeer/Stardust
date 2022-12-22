@@ -12,7 +12,7 @@ __Then be attached to the unknown friend over the hill and far away !__
 
 # DESC:  
 Stardust is a lightweight, and fully functional reverse shell coded in C,  
-and support interactive command execution 
+which currently only support basic feature of command execution (Ver-0.1.2).  
 
 Remmber to use the latest release(Ver-0.1.2) of Stardust in order to have the best experience.  
 ![](https://raw.githubusercontent.com/Falsedeer/Stardust/main/Picture/1.png)
@@ -24,8 +24,10 @@ and specifying it a GUI program.
 
 # ToDo:
 - Add encryption supprort  
-- Add Keylogger module  
+- Add build-in command support
+- Add interactive command support
+- Add keylogger module  
 - Add DLL Injection module  
 - Add anti-debugging module  
 - Add anti-AV module  
-- Add Build-in command suport  
+
