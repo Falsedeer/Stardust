@@ -1,4 +1,4 @@
-/* ============ Stardust Trojan - Ver. 0.1.1 [Prototype] =============
+/* ============ Stardust Trojan - Ver. 0.1.2 [Prototype] =============
    =                Coded by Falsedeer in 2022/12/21                 =
    =================================================================== */
 #include <stdio.h>
@@ -11,6 +11,7 @@
 #pragma comment(lib, "ws2_32.lib")
 
 // global variable
+#define VERSION "0.1.2[Prototype]"
 #define HOST "127.0.0.1"
 #define PORT 4444
 
