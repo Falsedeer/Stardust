@@ -6,6 +6,7 @@
 > which is commonly used to describe a feeling of magical and ethereality in literature.  
 ---
 Let the magic begin !  
+Be attached to the unknown friend over the hill and far away !
 
 # DESC:
 
