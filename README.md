@@ -1,5 +1,5 @@
 # Stardust
-<img src="https://raw.githubusercontent.com/Falsedeer/Stardust/main/Picture/banner.png" width="600" height="375"/>  
+<img src="https://raw.githubusercontent.com/Falsedeer/Stardust/main/Picture/banner.png" width="310" height="250"/>  
 
 ---  
 
