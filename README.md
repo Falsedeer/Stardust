@@ -9,4 +9,10 @@
 
 # Usage:
 
-# Credit:
+# ToDo:
+- Add encryption supprort  
+- Add Keylogger module  
+- Add DLL Injection module  
+- Add anti-debugging module  
+- Add anti-AV module  
+- Add Build-in command suport  
